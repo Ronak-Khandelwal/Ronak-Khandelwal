@@ -14,16 +14,6 @@
 
 ---
 
-###  Featured Project
-
-####  [TiffinEZ](https://tiffinez.in)
-
-- Developed a complete 3-app ecosystem (Customer, Delivery Partner, Provider) using Flutter for a seamless cross-platform experience on iOS & Android.
-- Implemented secure Firebase Phone Authentication, and Google Maps integration for precise location picking & live delivery updates.
-- Designed & built reusable UI components, smooth animations, and clean architecture to ensure a scalable, maintainable codebase.
-
----
-
 ###  Tech Stack & Tools
 
 **Mobile & Frontend**
